@@ -6232,7 +6232,7 @@
       </Color>
       <Color Name="keyword - control">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
-        <Foreground Type="CT_RAW" Source="FF000000" />
+        <Foreground Type="CT_RAW" Source="FF0000FF" />
       </Color>
       <Color Name="operator - overloaded">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -6240,11 +6240,11 @@
       </Color>
       <Color Name="record class name">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
-        <Foreground Type="CT_RAW" Source="FF000000" />
+        <Foreground Type="CT_RAW" Source="FF2B91AF" />
       </Color>
       <Color Name="record struct name">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
-        <Foreground Type="CT_RAW" Source="FF000000" />
+        <Foreground Type="CT_RAW" Source="FF2B91AF" />
       </Color>
       <Color Name="field name">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
